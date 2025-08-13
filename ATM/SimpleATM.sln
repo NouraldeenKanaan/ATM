@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{6C434DFF-4132-43A2-8841-BE59431B2EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_DataAccess", "ATM_DataAccess\ATM_DataAccess.csproj", "{539B92D2-3160-42DB-9F9D-D13E4ECCC5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_Business", "ATM_Business\ATM_Business.csproj", "{77A5EAED-F385-467D-AEFD-D9DFB90CE7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C434DFF-4132-43A2-8841-BE59431B2EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C434DFF-4132-43A2-8841-BE59431B2EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C434DFF-4132-43A2-8841-BE59431B2EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C434DFF-4132-43A2-8841-BE59431B2EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539B92D2-3160-42DB-9F9D-D13E4ECCC5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539B92D2-3160-42DB-9F9D-D13E4ECCC5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539B92D2-3160-42DB-9F9D-D13E4ECCC5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539B92D2-3160-42DB-9F9D-D13E4ECCC5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A5EAED-F385-467D-AEFD-D9DFB90CE7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A5EAED-F385-467D-AEFD-D9DFB90CE7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A5EAED-F385-467D-AEFD-D9DFB90CE7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A5EAED-F385-467D-AEFD-D9DFB90CE7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41876F6-7A30-4607-AFDE-A17DDB9881B7}
+	EndGlobalSection
+EndGlobal
